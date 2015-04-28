@@ -1,0 +1,33 @@
+<div id="pieOfertas">
+	
+    <div id="piePantallasCont2" style="width:240px; z-index:1000; padding-left:18px;">
+		<span class="titAzul">TU TAMBIÉN PUEDES</span><br>
+		<div class="txtOsc" style="">
+		  <p>Descubre las últimas novedades y <br>nuestras pantallas rebajadas a precios inigualables.</p>
+		</div>
+	</div>
+    
+	<div style="position:absolute; left:21px; top:155px; width:150px; z-index:1000;">
+    	<span class="boton" style="float:left; padding:2px 5px 1px 5px; width:121px;"><a href="ofertas_de_rotulos_electronicos.html">ver Ofertas de rótulos</a></span>
+        <span style="float:left;"><a href="ofertas_de_rotulos_electronicos.html"><img src="images/flecha.png" width="19" height="19" border="0" alt="ofertas de rotulos electronicos"></a></span>
+      <div class="clear" style="height:1px;"><img src="images/transparenza.png" width="1" height="1" border="0"></div>
+	</div>
+
+	<div style="position:absolute; z-index:1; left: 20px; width: 232px;">
+	  <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="248" height="180">
+        <param name="movie" value="swf/ofertasinterno.swf">
+        <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+        <!--[if !IE]>-->
+        <object type="application/x-shockwave-flash" data="swf/ofertasinterno.swf" width="248" height="180">
+          <!--<![endif]-->
+          <param name="quality" value="high">
+          <param name="wmode" value="opaque">
+          <param name="swfversion" value="9.0.45.0">
+          <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+          <param name="expressinstall" value="Scripts/expressInstall.swf">
+          <!--[if !IE]>-->
+        </object>
+        <!--<![endif]-->
+      </object>
+	</div>
+</div>
